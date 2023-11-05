@@ -1,0 +1,14 @@
+{
+  "web": {
+    "client_id": "133723485095-6idvsgc9c781sfaqmdqotprh40duk8us.apps.googleusercontent.com",
+    "project_id": "reflected-radio-403915",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "http://127.0.0.1:63677/authorize/",
+      "http://localhost/authorize/"
+    ]
+  }
+}
